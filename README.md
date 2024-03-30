@@ -60,6 +60,6 @@ Heart Disease Diagnostic Analysis is a crucial aspect of healthcare analytics ai
   
 - **Problem-solving Prowess**: Witness firsthand the ability to unravel complex datasets, deploy machine learning algorithms, and develop seamless web applications, demonstrating expertise in tackling diverse challenges.
 
-[![](https://raw.githubusercontent.com/theAbhishekDas/PORTFOLIO-ABHISHEK/main/7.png)](https://portfolio-abhishek-das.netlify.app/)
+[![](https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/05%20Template.png)](https://portfolio-abhishek-das.netlify.app/)
 
     
