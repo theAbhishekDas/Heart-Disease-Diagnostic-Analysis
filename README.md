@@ -10,15 +10,13 @@
 <div align="justify">
   <h1 align="right"> Home Section </h1>
     <img width="450" height="290" align='left' src="https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/Screenshot%202024-03-24%20185911.png" >
-Heart Disease Diagnostic Analysis is a crucial aspect of healthcare analytics aimed at identifying patterns and factors associated with heart diseases. Power BI, a powerful data visualization tool, can be effectively utilized to design insightful dashboards for this purpose. These dashboards provide a comprehensive overview of patient data, risk factors, and diagnostic results, enabling healthcare professionals to make informed decisions and tailor treatment plans accordingly.
+Heart Disease Diagnostic Analysis is vital in healthcare analytics for identifying patterns and factors linked to heart diseases. Leveraging Power BI, a robust data visualization tool, enables the creation of insightful dashboards. These dashboards offer a holistic view of patient data, risk factors, and diagnostic outcomes, empowering healthcare professionals to make informed decisions and customize treatment plans. Through interactive visualizations, trends such as cholesterol levels, blood pressure, and lifestyle habits can be effectively analyzed. Moreover, Power BI's capabilities in integrating data from various sources allow for a comprehensive assessment of patient health records. Such dashboards not only streamline the diagnostic process but also facilitate proactive measures for disease prevention and management.
 <br />
    <br />
   <br />
-  <br />
    <br />
-  <br />
   
-  [![](https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/2.png)
+  ![](https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/2.png)
   
  <h1 align="left"> Steps for Dashboard </h1>
 <img width="400" height="395" align='right' src="https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/pngwing.com.png" >
