@@ -32,6 +32,7 @@ Heart Disease Diagnostic Analysis is vital in healthcare analytics for identifyi
 
 <br/>
 <br/>
+
 [![](https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/05%20Template1.png)](https://portfolio-abhishek-das.netlify.app/)
 
     
